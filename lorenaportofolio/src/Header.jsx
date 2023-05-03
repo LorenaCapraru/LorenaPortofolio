@@ -4,14 +4,16 @@ export const Header = () => {
   return (
     <div>
       <nav className="header">
-        <ul>
+        {/* <ul>
           <li>
-            <a href="lorenacapraru@gmail.com">Projects</a>
+            <a href="lorenacapraru@gmail.com">PROJECTS</a>
+          </li>
+          <li>
             <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmllksDNqJSnNTSphNNKNJhFWVFvVWjCVSVxXgkQGSxQGkkkwwXXFCLkRcLCSwFCtVmTdJ">
-              Contact me
+              CONTACT ME
             </a>
           </li>
-        </ul>
+        </ul> */}
       </nav>
     </div>
   );
