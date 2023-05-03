@@ -160,5 +160,10 @@ body {
   background: #ffffff;
   transform: rotate(0deg);
 }
-
 /*  end of social*/
+
+/* timeline  */
+.timeline {
+  background-color: red;
+}
+/* end of timeline */
