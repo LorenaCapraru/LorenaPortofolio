@@ -10,7 +10,7 @@ export const RightHalf = () => {
         <p>Lorem ipsum lala meme dada kiki lili ula lala dodo dudu</p>
       </div>
       <div class="data-container">
-        <span class="btn">Projects </span>
+        <span class="btn">Projects</span>
       </div>
     </div>
   );
