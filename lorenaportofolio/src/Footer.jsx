@@ -5,17 +5,17 @@ export const Footer = () => {
     <nav class="social">
       <ul>
         <li>
-          <a href="https://twitter.com/highflyer910">
-            Twitter <i class="fa fa-twitter"></i>
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/highflyer910">
+          <a href="https://github.com/lorenacapraru">
             Github <i class="fa fa-github"></i>
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/teonamushambadze">
+          <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmllksDNqJSnNTSphNNKNJhFWVFvVWjCVSVxXgkQGSxQGkkkwwXXFCLkRcLCSwFCtVmTdJ">
+            Gmail <i class="fa fa-google-plus"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/lorena-capraru-070723244/">
             Linkedin <i class="fa fa-linkedin"></i>
           </a>
         </li>
