@@ -51,6 +51,7 @@ ul {
 
 /* button*/
 .btn {
+  color: black;
   cursor: pointer;
   position: relative;
   padding: 10px 20px;
@@ -161,9 +162,3 @@ body {
   transform: rotate(0deg);
 }
 /*  end of social*/
-
-/* timeline  */
-.timeline {
-  background-color: red;
-}
-/* end of timeline */

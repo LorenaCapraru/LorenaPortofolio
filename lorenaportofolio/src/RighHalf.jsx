@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react";
+import { Link } from "react-router-dom";
 
 export const RightHalf = () => {
   return (
@@ -10,10 +10,10 @@ export const RightHalf = () => {
         <p>Lorem ipsum lala meme dada kiki lili ula lala dodo dudu</p>
       </div>
       <div class="data-container">
-        <span class="btn">
-          Projects
-          {/* <Link to="/timeline">Projects</Link>{" "} */}
-        </span>
+        <Link to="/timeline">
+          {" "}
+          <span class="btn">Projects</span>
+        </Link>
       </div>
     </div>
   );
