@@ -5,32 +5,54 @@ import "./Timeline.css";
 export const Timeline = () => {
   return (
     <div className="design-section">
-      <div className="timeline">
-        <div className="timeline-empty"></div>
-        <div className="timeline-middle">
-          <div className="timeline-circle"></div>
+      <div class="container">
+        <div class="card">
+          <h3 class="title">Card 1</h3>
+          <div class="bar">
+            <div class="emptybar"></div>
+            <div class="filledbar"></div>
+          </div>
+          <div class="circle">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+              <circle class="stroke" cx="60" cy="60" r="50" />
+            </svg>
+          </div>
         </div>
-        <div className="timeline-component timeline-content">
-          <h3>HTML</h3>
-          <p>Some Text</p>
+        <div class="card">
+          <h3 class="title">Card 2</h3>
+          <div class="bar">
+            <div class="emptybar"></div>
+            <div class="filledbar"></div>
+          </div>
+          <div class="circle">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+              <circle class="stroke" cx="60" cy="60" r="50" />
+            </svg>
+          </div>
         </div>
-        <div className="timeline-component timeline-content">
-          <h3>CSS</h3>
-          <p>Some Text.</p>
+        <div class="card">
+          <h3 class="title">Card 3</h3>
+          <div class="bar">
+            <div class="emptybar"></div>
+            <div class="filledbar"></div>
+          </div>
+          <div class="circle">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+              <circle class="stroke" cx="60" cy="60" r="50" />
+            </svg>
+          </div>
         </div>
-        <div className="timeline-middle">
-          <div className="timeline-circle"></div>
-        </div>
-        <div className="timeline-empty"></div>
-
-        <div className="timeline-empty"></div>
-
-        <div className="timeline-middle">
-          <div className="timeline-circle"></div>
-        </div>
-        <div className=" timeline-component timeline-content">
-          <h3>Javascript</h3>
-          <p>Some Text.</p>
+        <div class="card">
+          <h3 class="title">Card 4</h3>
+          <div class="bar">
+            <div class="emptybar"></div>
+            <div class="filledbar"></div>
+          </div>
+          <div class="circle">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+              <circle class="stroke" cx="60" cy="60" r="50" />
+            </svg>
+          </div>
         </div>
       </div>
       <Footer />
