@@ -8,7 +8,8 @@ export const RightHalf = () => {
       <div className="aboutMe">
         <h1>About me</h1>
         <p>
-          Lorem ipsum lala meme dada lili mimi dada kiki lili ula lala dodo dudu
+          Lorem ipsum lala didi nini meme dada lili mimi dada kiki lili ula lala
+          dodo dudu
         </p>
       </div>
       <div class="data-container">
