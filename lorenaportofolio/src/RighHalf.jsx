@@ -7,7 +7,9 @@ export const RightHalf = () => {
       {/* <Header /> */}
       <div className="aboutMe">
         <h1>About me</h1>
-        <p>Lorem ipsum lala meme dada kiki lili ula lala dodo dudu</p>
+        <p>
+          Lorem ipsum lala meme dada lili mimi dada kiki lili ula lala dodo dudu
+        </p>
       </div>
       <div class="data-container">
         <Link to="/timeline">
