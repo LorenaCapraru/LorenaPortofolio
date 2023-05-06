@@ -2,7 +2,7 @@ body {
   /* background-color: #f7f7f7; */
   font-family: "Open Sans", sans-serif;
   background-image: url("../public/images/logo.png");
-  height: 800px;
+  height: 700px;
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: 900px;
@@ -26,8 +26,8 @@ body {
   padding: 38px;
   filter: drop-shadow(0 30px 10px rgba(0, 0, 0, 2.125));
   display: flex;
-  height: 400px;
-  width: 250px;
+  height: 380px;
+  width: 230px;
   border-radius: 10px;
   transition: 0.4s ease-out;
   position: relative;
@@ -50,8 +50,9 @@ body {
 }
 
 .title {
+  font-family: Quicksand, sans-serif;
   color: black;
-  font-weight: 300;
+  font-weight: 600;
   position: absolute;
   left: 20px;
   top: 15px;
