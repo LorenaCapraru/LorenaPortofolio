@@ -7,7 +7,7 @@ export const Timeline = () => {
     <div className="design-section">
       <div class="container">
         <div class="card">
-          <h3 class="title">Card 1</h3>
+          <h3 class="title">HTML</h3>
           <div class="bar">
             <div class="emptybar"></div>
             <div class="filledbar"></div>
@@ -19,7 +19,7 @@ export const Timeline = () => {
           </div>
         </div>
         <div class="card">
-          <h3 class="title">Card 2</h3>
+          <h3 class="title">CSS</h3>
           <div class="bar">
             <div class="emptybar"></div>
             <div class="filledbar"></div>
@@ -31,7 +31,7 @@ export const Timeline = () => {
           </div>
         </div>
         <div class="card">
-          <h3 class="title">Card 3</h3>
+          <h3 class="title">JavaScript</h3>
           <div class="bar">
             <div class="emptybar"></div>
             <div class="filledbar"></div>
@@ -43,7 +43,7 @@ export const Timeline = () => {
           </div>
         </div>
         <div class="card">
-          <h3 class="title">Card 4</h3>
+          <h3 class="title">Asp.net MVC</h3>
           <div class="bar">
             <div class="emptybar"></div>
             <div class="filledbar"></div>
