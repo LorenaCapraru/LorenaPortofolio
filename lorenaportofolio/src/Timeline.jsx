@@ -9,16 +9,18 @@ export const Timeline = () => {
         <a href="https://github.com/lorenacapraru">
           <div class="card">
             <h3 class="title">HTML</h3>
+
             <div class="bar">
               <div class="emptybar"></div>
               <div class="filledbar"></div>
             </div>
-            <p>Click me</p>
+
             <div class="circle">
               <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
                 <circle class="stroke" cx="60" cy="60" r="50" />
               </svg>
             </div>
+            <h3>lala</h3>
           </div>
         </a>
         <div class="card">
