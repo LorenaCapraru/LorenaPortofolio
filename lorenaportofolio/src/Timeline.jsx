@@ -20,7 +20,7 @@ export const Timeline = () => {
                 <circle class="stroke" cx="60" cy="60" r="50" />
               </svg>
             </div>
-            <h3>HTMmmMML</h3>
+            <h3>HTMlllL</h3>
           </div>
         </a>
         <div class="card">
