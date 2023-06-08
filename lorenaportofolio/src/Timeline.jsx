@@ -24,7 +24,7 @@ export const Timeline = () => {
           </div>
         </a>
         <div class="card">
-          <h3 class="title">CSSS</h3>
+          <h3 class="title">CSS</h3>
           <div class="bar">
             <div class="emptybar"></div>
             <div class="filledbar"></div>
