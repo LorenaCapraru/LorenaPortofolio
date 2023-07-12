@@ -36,7 +36,7 @@ export const Timeline = () => {
           </div>
         </div>
         <div class="card">
-          <h3 class="title">JavaaScript</h3>
+          <h3 class="title">JavaaaaScript</h3>
           <div class="bar">
             <div class="emptybar"></div>
             <div class="filledbar"></div>
